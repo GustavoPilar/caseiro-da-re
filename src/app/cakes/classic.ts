@@ -8,7 +8,7 @@ export class CakeClassicUtls {
                 Frosting: 'Nenhuma',
                 Price: 15.90,
                 Category: 'Tradicional',
-                ImageUrl: '/assets/img/cornmeal_cake.jpg',
+                ImageUrl: 'assets/img/cornmeal_cake.jpg',
             },
             {
                 Description: 'Bolo de Banana',
