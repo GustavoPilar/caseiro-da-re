@@ -15,7 +15,7 @@ export class CakeClassicUtls {
                 Frosting: 'Nenhuma',
                 Price: 18.90,
                 Category: 'Tradicional',
-                ImageUrl: 'assets/img/cornmeal_cake.jpg',
+                ImageUrl: 'assets/img/banana_cake.jpg',
             }
         ]
     }
